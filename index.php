@@ -1,3 +1,4 @@
+<?php
 <!DOCTYPE html>
 <html lang="fr" >
 
@@ -34,7 +35,7 @@
     <h1>La France est candidate pour 2025
       <span>
         La candidature de la France pour 2025 est née de la volonté d’organiser une grande Exposition Universelle pour faire une
-        nouvelle fois de la France le centre de l'innovation .
+        nouvelle fois de la France le centre de linnovation .
       </span>
     </h1>
   </section>
@@ -53,7 +54,7 @@
     <h1>La France invite le monde à partager une nouvelle ambition, universelle
       </br>
       <span>
-        Pour 2025, le sujet est tourné vers l’avenir et la jeunesse. L'exposition permet à chaque pays, petit ou grand, de partager
+        Pour 2025, le sujet est tourné vers l’avenir et la jeunesse. L\'exposition permet à chaque pays, petit ou grand, de partager
         ses connaissance, son savoir-faire ou sa culture au service du bien commun. Pendant 6 mois, les visiteurs et les pays du
         monde entier seront invités à diffuser leur vision, leurs innovations et leurs solutions.
       </span>
@@ -74,3 +75,5 @@
 </body>
 
 </html>
+
+?>
